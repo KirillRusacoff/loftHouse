@@ -16,3 +16,5 @@ The work is optimized for Google Page Speed (93).
 Работа оптимизирована под  Google Page Speed(93).
 
 ********************
+
+![kirillrusacoff github io_loftHouse_](https://github.com/KirillRusacoff/loftHouse/assets/121468262/74771277-c5d8-4ae0-a641-017a01d0bf91)
