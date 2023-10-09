@@ -1,4 +1,4 @@
-<b>Ссылка на сайт - https://kirillrusacoff.github.io/accounting/ </b>
+<b>Ссылка на сайт - https://kirillrusacoff.github.io/loftHouse/ </b>
 
 ********************
 Adaptive HTML SCSS layout of the site from the Figma landing page of the LoftHouse residential complex.
